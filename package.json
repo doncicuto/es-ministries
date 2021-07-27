@@ -1,6 +1,6 @@
 {
   "name": "@doncicuto/es-ministries",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Array containing the name and DIR3 code of Government ministries of Spain",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
