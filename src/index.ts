@@ -26,7 +26,7 @@ const ministries: Ministry[] = [
     code: "E05024101",
     name: "Ministerio de Educación y Formación Profesional",
   },
-  { code: "E05024001", name: "Ministerio de Hacienda" },
+  { code: "E05024001", name: "Ministerio de Hacienda y Función Pública" },
   { code: "E05071601", name: "Ministerio de Igualdad" },
   {
     code: "E05072501",
@@ -41,7 +41,7 @@ const ministries: Ministry[] = [
   },
   {
     code: "E05024601",
-    name: "Ministerio de Política Territorial y Función Pública",
+    name: "Ministerio de Política Territorial",
   },
   { code: "E05070101", name: "Ministerio de Sanidad" },
   { code: "E05066501", name: "Ministerio de Trabajo y Economía Social" },
